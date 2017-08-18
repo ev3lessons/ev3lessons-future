@@ -1,0 +1,59 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: EV3Lessons.com
+description: |
+  Programming Lessons  
+  Robot Designs 
+  and more
+owner: Seshan Brothers
+first_published: 2014
+email: team@ev3lessons.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ev3lessons.com"
+social:
+  twitter: https://twitter.com/ev3lessons
+  github: https://github.com/seshanbrothers
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/ev3lessons
+  google-plus-square: https://plus.google.com/u/0/+droidsrobotics
+  #email: /contact/
+  #flickr:
+  #instagram:
+  youtube-square: https://www.youtube.com/channel/UCNolfy4KiFUZmjSHg8iJ7-A
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
