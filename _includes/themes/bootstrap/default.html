@@ -4,7 +4,7 @@ https://www.linkedin.com/in/antoniotrento/
 https://twitter.com/lantoniotrento
 lantoniotrento@gmail.com
 -->
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -59,7 +59,7 @@ lantoniotrento@gmail.com
   <body>
   <div class="wrapper">
       <!--Home page style-->
-      {% include themes/bootstrap/nav-bar.html %}
+      {% include themes/bootstrap/{{ page.lang }}/nav-bar.html %}
       {{ content }}
 	  <br />
       {% include themes/bootstrap/footer.html %}
