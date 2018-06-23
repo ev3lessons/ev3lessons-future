@@ -1,14 +1,14 @@
 
-  <!-- cards carousel -->
-  <script>
+  // cards carousel
+  
     $(document).ready(function($) {
       $("#card-carousel").owlCarousel();
     });
     $("body").data("page", "frontpage");
-  </script>
 
-  <!-- image carousel -->
-  <script>
+
+  // image carousel
+
     $(document).ready(function() {
       $("#image-carousel").owlCarousel({
         items: 4,
@@ -17,10 +17,10 @@
       });
 
     });
-  </script>
 
-  <!-- posts carousel -->
-  <script>
+
+  // posts carousel
+
     $(document).ready(function() {
       $("#posts-carousel").owlCarousel({
         items: 4,
@@ -29,10 +29,10 @@
       });
 
     });
-  </script>
 
-  <!-- posts carousel 3col -->
-  <script>
+
+  // posts carousel 3col
+
     $(document).ready(function() {
       $("#posts-carousel-3col").owlCarousel({
         items: 3,
@@ -41,10 +41,10 @@
       });
 
     });
-  </script>
 
-  <!-- image slider -->
-  <script>
+
+  // image slider
+
     $(document).ready(function() {
       $("#image-slider").owlCarousel({
         navigation: false, // Show next and prev buttons
@@ -54,10 +54,10 @@
 
       });
     });
-  </script>
 
-  <!-- testimonial carousel -->
-  <script>
+
+  // testimonial carousel
+
     $(document).ready(function() {
       $("#single-testimonial-item").owlCarousel({
         items: 1,
@@ -68,5 +68,5 @@
 
       });
     });
-  </script>
-  <!-- / javascript -->
+
+  // / javascript
