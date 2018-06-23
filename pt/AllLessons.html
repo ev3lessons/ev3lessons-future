@@ -1,0 +1,35 @@
+---
+layout: default
+title: Lessons
+keywords: helium, jekyll, bootstrap, UI, kit
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+
+
+<!-- We reopen main-content and container -->
+
+<div class="container-fluid">
+
+  <div class="main-content">
+
+    <!-- Featured
+    ================================================== -->
+    <section class="all-posts">
+
+      <div class="section-title text-center">
+        <h1>Programming Lessons</h1>
+      </div>
+      <br><br>
+      {% assign i = 0 %}
+
+        {% for post in site.categories.ProgrammingLessons %}
+          {% if post.lang == page.lang %}
+          {% assign refvalue = i | downcase %}
+          {% include postlist.html ref=refvalue %}
+          {% assign i = i | plus:1 %}
+          {% endif %}
+
+        {% endfor %}
+
+    </section>

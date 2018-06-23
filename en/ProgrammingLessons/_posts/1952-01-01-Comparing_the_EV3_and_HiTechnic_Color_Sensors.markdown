@@ -2,6 +2,7 @@
 title: "Comparing the EV3 and HiTechnic Color Sensors"
 searchterms: "toggle beyond Color HiTechnic"
 lang: "en"
+tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
