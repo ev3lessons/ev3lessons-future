@@ -1,5 +1,5 @@
 ---
-title: "EV3 Discovery"
+title: "Discovery"
 searchterms: "EV3"
 lang: "en"
 ---
