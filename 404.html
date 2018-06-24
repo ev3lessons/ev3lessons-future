@@ -5,6 +5,27 @@ keywords: gradient, html, css, landing page, jekyll, ruby, web marketing, advert
 ---
 {% include JB/setup %}
 
+
+<!--Redirect old language style links (to English only) -->
+
+<script>
+  page = window.location.href.split('/')[3].split('?')[0].split('#')[0];
+  if (page == "lessons.html") {
+    window.location.href = "/en/Lessons.html"
+  } else if (page == "robots.html") {
+    window.location.href = "/en/RobotDesigns.html"
+  } else if (page == "aboutus.html") {
+    window.location.href = "/en/AboutUs.html"
+  } else if (page == "tablet.html") {
+    window.location.href = "/en/TabletLessons.html"
+  } else if (page == "HourOfEV3.html") {
+    window.location.href = "/en/TabletLessons.html"
+  }
+</script>
+
+
+
+
 <div class="site-wrapper gradient">
 
 
@@ -14,18 +35,18 @@ keywords: gradient, html, css, landing page, jekyll, ruby, web marketing, advert
         <div class="cover-container">
 
 
-
+<br>
           <div class="inner cover">
 			<div class="row vertical-align">
 			  <div class="col-md-6">
-	            <h1 class="cover-heading jumbotitle">This page doesn't exist!</h1>
-	            <p class="lead jumbotext">You're in the right place: <b>Grads</b>! But this page doesn't exist, maybe you're lost (404 error). Try to go back to home by the button below.</p>
+	            <h1 style="padding-left: 10px;" class="cover-heading jumbotitle">404 Error - This page doesn't exist!</h1>
+	            <p style="padding-left: 10px;" class="lead jumbotext">This page has not been found. It might have moved during recent updates, but don't worry as the content is still avaliable. Just click the link below.</p>
 	            <p class="lead jumbotext">
-	              <a href="{{ BASE_PATH }}/" class="btn btn-lg btn-default">Home buddy</a>
+	              <a href="{{ BASE_PATH }}/" class="btn btn-lg btn-default">Home</a>
 	            </p>
 			  </div>
 			  <div class="col-md-6" style="align-content: center;">
-			  	<img src="{{ BASE_PATH }}/assets/images/404.gif" style="margin: auto;" class="img-responsive" alt="Error 404">
+			  	<img src="{{ BASE_PATH }}/assets/images/404.png" style="margin: auto;width:100%;" class="img-responsive" alt="Error 404">
 			  </div>
 			</div>
 
