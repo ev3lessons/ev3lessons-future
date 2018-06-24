@@ -5,7 +5,7 @@ lang: "en"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/beginner/Display.pptx">PPTX</a>,
- <a href="translations/en-us/beginner/Display.pdf">PDF</a>
+ <a href="ProgrammingLessons/beginner/Display.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beginner/Display.pdf">PDF</a>
  </li>
  </ul>

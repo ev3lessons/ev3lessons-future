@@ -5,11 +5,11 @@ lang: "en"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/advanced/NXTLightSensor.pptx">PPTX</a>,
- <a href="translations/en-us/advanced/NXTLightSensor.pdf">PDF</a>
+ <a href="ProgrammingLessons/advanced/NXTLightSensor.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/advanced/NXTLightSensor.pdf">PDF</a>
  </li>
- <li><a href="translations/en-us/advanced/NXTLightSensor.ev3" download="NXTLightSensor.ev3" type="application/ev3">EV3 Code
- </a></li><a href="translations/en-us/advanced/NXTLightSensor.ev3" download="NXTLightSensor.ev3" type="application/ev3">
+ <li><a href="ProgrammingLessons/advanced/NXTLightSensor.ev3" download="NXTLightSensor.ev3" type="application/ev3">EV3 Code
+ </a></li><a href="ProgrammingLessons/advanced/NXTLightSensor.ev3" download="NXTLightSensor.ev3" type="application/ev3">
  <li>By Lego Works
  </li>
- </a></ul><a href="translations/en-us/advanced/NXTLightSensor.ev3" download="NXTLightSensor.ev3" type="application/ev3">
+ </a></ul><a href="ProgrammingLessons/advanced/NXTLightSensor.ev3" download="NXTLightSensor.ev3" type="application/ev3">

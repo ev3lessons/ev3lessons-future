@@ -5,10 +5,10 @@ lang: "en"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/beginner/Pseudocode.pptx">PPTX</a>,
- <a href="translations/en-us/beginner/Pseudocode.pdf">PDF</a>
+ <a href="ProgrammingLessons/beginner/Pseudocode.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beginner/Pseudocode.pdf">PDF</a>
  </li>
- <li><a href="translations/en-us/beginner/PseudocodeWorksheet.pdf">Worksheet</a>
+ <li><a href="ProgrammingLessons/beginner/PseudocodeWorksheet.pdf">Worksheet</a>
  </li>
 
  </ul>

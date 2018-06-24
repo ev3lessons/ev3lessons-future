@@ -6,7 +6,7 @@ tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/wro/ColorSensorComparison.pptx">PPTX</a>,
- <a href="translations/en-us/wro/ColorSensorComparison.pdf">PDF</a>
+ <a href="ProgrammingLessons/wro/ColorSensorComparison.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/wro/ColorSensorComparison.pdf">PDF</a>
  </li>
  </ul>

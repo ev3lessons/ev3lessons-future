@@ -8,7 +8,7 @@ lang: "en"
   <ul>
 
  <li class="ng-binding">Slides:
- <a href="translations/en-us/beyond/BranchingError.pptx">PPTX</a>,
- <a href="translations/en-us/beyond/BranchingError.pdf">PDF</a>
+ <a href="ProgrammingLessons/beyond/BranchingError.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beyond/BranchingError.pdf">PDF</a>
  </li>
  </ul>

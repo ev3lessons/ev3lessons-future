@@ -5,7 +5,7 @@ lang: "en"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/advanced/PropSound.pptx">PPTX</a>,
- <a href="translations/en-us/advanced/PropSound.pdf">PDF</a>
+ <a href="ProgrammingLessons/advanced/PropSound.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/advanced/PropSound.pdf">PDF</a>
  </li>
  </ul>

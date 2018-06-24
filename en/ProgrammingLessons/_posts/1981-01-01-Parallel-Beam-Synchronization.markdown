@@ -5,7 +5,7 @@ lang: "en"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/advanced/SyncBeams.pptx">PPTX</a>,
- <a href="translations/en-us/advanced/SyncBeams.pdf">PDF</a>
+ <a href="ProgrammingLessons/advanced/SyncBeams.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/advanced/SyncBeams.pdf">PDF</a>
  </li>
  </ul>

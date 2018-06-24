@@ -156,14 +156,49 @@ defaults:
       layout: default
   -
     scope:
+      path: "ar"
+    values:
+      lang: "ar"
+  -
+    scope:
+      path: "ct"
+    values:
+      lang: "ct"
+  -
+    scope:
+      path: "el"
+    values:
+      lang: "el"
+  -
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+  -
+    scope:
+      path: "fr"
+    values:
+      lang: "fr"
+  -
+    scope:
+      path: "he"
+    values:
+      lang: "he"
+  -
+    scope:
+      path: "it"
+    values:
+      lang: "it"
+  -
+    scope:
+      path: "nl"
+    values:
+      lang: "nl"
+  -
+    scope:
       path: "pt"
     values:
       lang: "pt"
-  -
-    scope:
-      path: "de"
-    values:
-      lang: "de"
 
 
 # {% assign all_langs = "en:United States:English,es:Spain:Español,nl:Netherlands:Nederlands,ar:Saudi Arabia:العَرَبِيةُ‎‎,pt:Brazil:Portugues,el:Greece:Ελληνικά,fr:France:français,ct:Catalonia:català,he:Israel:עברית,it:Italy:Italiano" | split: "," %}

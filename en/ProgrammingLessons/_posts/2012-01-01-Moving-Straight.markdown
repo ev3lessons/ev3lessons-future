@@ -5,14 +5,14 @@ lang: "en"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/beginner/MovingStraight.pptx">PPTX</a>,
- <a href="translations/en-us/beginner/MovingStraight.pdf">PDF</a>
+ <a href="ProgrammingLessons/beginner/MovingStraight.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beginner/MovingStraight.pdf">PDF</a>
  </li>
 <li class="ng-binding">NXT Slides:
-<a href="translations/en-us/beginner/MovingStraightNXT.pptx">PPTX</a>,
-<a href="translations/en-us/beginner/MovingStraightNXT.pdf">PDF</a>
+<a href="ProgrammingLessons/beginner/MovingStraightNXT.pptx">PPTX</a>,
+<a href="ProgrammingLessons/beginner/MovingStraightNXT.pdf">PDF</a>
 </li>
- <li><a href="translations/en-us/beginner/MovingStraight.docx">Worksheet</a>
+ <li><a href="ProgrammingLessons/beginner/MovingStraight.docx">Worksheet</a>
  </li>
 
  </ul>

@@ -5,11 +5,11 @@ layout: none
 
 <script>
   //langs=['en:United States:English','es:Spain:Español','nl:Netherlands:Nederlands','ar:Saudi Arabia:العَرَبِيةُ‎‎','pt:Brazil:Portugues','el:Greece:Ελληνικά','fr:France:français','ct:../ct:català','he:Israel:עברית','it:Italy:Italiano']
-  
+
   langs=['{{ site.all_langs | join: "', '" }}']
 
 
-function get_browser_version(){	
+function get_browser_version(){
   var N=navigator.appName, ua=navigator.userAgent, tem;
   var M=ua.match(/(opera|chrome|safari|firefox|msie)\/?\s*(\.?\d+(\.\d+)*)/i);
   if(M && (tem= ua.match(/version\/([\.\d]+)/i))!= null) M[2]= tem[1];
@@ -31,9 +31,9 @@ var browser = navigator.appName;
 var version = get_browser_version();
 
 if (browser=="Microsoft Internet Explorer") {
-    if (version<="8.0") 
-        document.location.href="http://classic.ev3lessons.com/" 
-} 
+    if (version<="8.0")
+        document.location.href="http://classic.ev3lessons.com/"
+}
 
 
 
@@ -65,7 +65,7 @@ if ((String(langs).indexOf(language+":")) == -1) {
 }
 
 
-if (getParameterByName('target')) { 
+if (getParameterByName('target')) {
     var page = window.location.href.split("?")[0].split("#")[0].split("index.html")[0] + ''+language + '/' + getParameterByName('target');
 } else {
     var page = window.location.href.split("?")[0].split("#")[0].split("index.html")[0] + ''+language;

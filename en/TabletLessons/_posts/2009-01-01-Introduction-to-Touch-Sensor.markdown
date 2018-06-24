@@ -8,7 +8,7 @@ lang: "en"
      
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/tablet/beginner/Touch.pptx">PPTX</a>,
- <a href="translations/en-us/tablet/beginner/Touch.pdf">PDF</a>
+ <a href="TabletLessons/tablet/beginner/Touch.pptx">PPTX</a>,
+ <a href="TabletLessons/tablet/beginner/Touch.pdf">PDF</a>
  </li>
  </ul>

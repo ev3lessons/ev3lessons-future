@@ -1,13 +1,16 @@
 <p>
   <span class="left">
 
-  
-  
+  <script>
+  curr_lang = window.location.href.split('/')[3]
+  this_page = window.location.href.split('/'+curr_lang+'/')[1]
+  </script>
+
     {% for curr_lang_entry in {{site.all_langs}} %}
     {% assign this_lang = {{curr_lang_entry}} | split: ":" %}
-    
+
        <a style="margin-right: 0px;" onclick="window.location.href =
-          '/index.html?lang={{this_lang[0]}}&target='+window.location.href.split('/')[4]"
+          '/index.html?lang={{this_lang[0]}}&target='+this_page"
           href='#'><img width="26" height="26"
   src="/assets/images/countries/{{this_lang[1]}}.png" alt="{{this_lang[2]}}" title="{{this_lang[2]}}"></a>
 
@@ -15,7 +18,7 @@
     {% endfor %}
 
 
-  
+
 </span>
 <span class="right hidden-sm-down">
 {% if site.author.facebook %}<a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="fa fa-facebook"></i></a>{% endif %}
@@ -24,4 +27,3 @@
 {% if site.author.instagram %}<a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="fa fa-instagram"></i></a>{% endif %}
 </span>
 </p>
-

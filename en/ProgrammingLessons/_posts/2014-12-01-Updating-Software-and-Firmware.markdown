@@ -5,7 +5,7 @@ lang: "en"
 ---
   <ul>
                          <li>Slides:
-                           <a href='translations/en-us/beginner/InstallingUpdates.pptx'>PPTX</a>,
-                           <a href='translations/en-us/beginner/InstallingUpdates.pdf'>PDF</a>
+                           <a href='ProgrammingLessons/beginner/InstallingUpdates.pptx'>PPTX</a>,
+                           <a href='ProgrammingLessons/beginner/InstallingUpdates.pdf'>PDF</a>
                          </li>
   </ul>

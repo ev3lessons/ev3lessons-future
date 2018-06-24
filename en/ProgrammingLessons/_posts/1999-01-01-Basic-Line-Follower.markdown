@@ -5,14 +5,14 @@ lang: "en"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/en-us/beginner/BasicLineFollower.pptx">PPTX</a>,
- <a href="translations/en-us/beginner/BasicLineFollower.pdf">PDF</a>
+ <a href="ProgrammingLessons/beginner/BasicLineFollower.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beginner/BasicLineFollower.pdf">PDF</a>
  </li>
 <li class="ng-binding">NXT Slides:
-<a href="translations/en-us/beginner/BasicLineFollowerNXT.pptx">PPTX</a>,
-<a href="translations/en-us/beginner/BasicLineFollowerNXT.pdf">PDF</a>
+<a href="ProgrammingLessons/beginner/BasicLineFollowerNXT.pptx">PPTX</a>,
+<a href="ProgrammingLessons/beginner/BasicLineFollowerNXT.pdf">PDF</a>
 </li>
 
- <li> <a href="translations/en-us/beginner/BasicLineFollower.docx">Worksheet</a>
+ <li> <a href="ProgrammingLessons/beginner/BasicLineFollower.docx">Worksheet</a>
  </li>
  </ul>
