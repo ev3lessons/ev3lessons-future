@@ -5,8 +5,8 @@ lang: "he"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/he/beginner/Touch.pptx">PPTX</a>,
- <a href="translations/he/beginner/Touch.pdf">PDF</a>
+ <a href="ProgrammingLessons/beginner/Touch.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beginner/Touch.pdf">PDF</a>
  </li>
  <li>Using Sensors: Move Until <a href="translations/en-us/guides//MoveUntil.pdf">Quick Guide</a> (English)
  </li>

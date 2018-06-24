@@ -6,7 +6,7 @@ lang: "el"
  <ul>
  <li class="ng-binding">
  Slides:
- <a href="translations/el/intermediate/ColorFollowerDistance.pptx">PPTX</a>,
- <a href="translations/el/intermediate/ColorFollowerDistance.pdf">PDF</a>
+ <a href="ProgrammingLessons/intermediate/ColorFollowerDistance.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/intermediate/ColorFollowerDistance.pdf">PDF</a>
  </li>
  </ul>

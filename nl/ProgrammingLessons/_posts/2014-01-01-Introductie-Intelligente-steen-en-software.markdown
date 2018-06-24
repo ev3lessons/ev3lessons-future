@@ -5,8 +5,8 @@ lang: "nl"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/nl/beginner/Introduction.pptx">PPTX</a>,
- <a href="translations/nl/beginner/Introduction.pdf">PDF</a>
+ <a href="ProgrammingLessons/beginner/Introduction.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beginner/Introduction.pdf">PDF</a>
  </li>
  <li>Edu vs. Home Edition Software: <a href="translations/en-us/guides//EDUvsHome.pdf">Quick
  Guide</a> (English)

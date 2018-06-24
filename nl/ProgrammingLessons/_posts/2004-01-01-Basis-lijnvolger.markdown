@@ -5,10 +5,10 @@ lang: "nl"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/nl/beginner/BasicLineFollower.pptx">PPTX</a>,
- <a href="translations/nl/beginner/BasicLineFollower.pdf">PDF</a>
+ <a href="ProgrammingLessons/beginner/BasicLineFollower.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beginner/BasicLineFollower.pdf">PDF</a>
  </li>
- <li> <a href="translations/nl/beginner/BasicLineFollower.docx">Worksheet</a>
+ <li> <a href="ProgrammingLessons/beginner/BasicLineFollower.docx">Worksheet</a>
  </li>
  <li>One Minute Line Follower: <a href="translations/en-us/guides//OneMinuteLineFollower.pdf">Quick Guide</a> (English)
  </li>

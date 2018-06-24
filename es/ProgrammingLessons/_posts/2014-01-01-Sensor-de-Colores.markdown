@@ -5,8 +5,8 @@ lang: "es"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/es/beginner/Color.pptx">PPTX</a>,
- <a href="translations/es/beginner/Color.pdf">PDF</a>
+ <a href="ProgrammingLessons/beginner/Color.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/beginner/Color.pdf">PDF</a>
  </li>
  <li>EV3 Tablet App Slides: <a href="translations/en-us/tablet-beginner/Color.pptx">PPTX</a> (English)
  </li>

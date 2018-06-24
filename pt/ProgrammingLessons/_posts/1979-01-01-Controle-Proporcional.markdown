@@ -5,7 +5,7 @@ lang: "pt"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/pt-br/advanced/ProportionalControl.pptx">PPTX</a>,
- <a href="translations/pt-br/advanced/ProportionalControl.pdf">PDF</a>
+ <a href="ProgrammingLessons/advanced/ProportionalControl.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/advanced/ProportionalControl.pdf">PDF</a>
  </li>
  </ul>

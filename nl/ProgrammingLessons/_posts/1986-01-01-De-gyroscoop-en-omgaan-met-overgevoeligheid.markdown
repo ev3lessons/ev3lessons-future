@@ -5,8 +5,8 @@ lang: "nl"
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="translations/nl/advanced/Gyro.pptx">PPTX</a>,
- <a href="translations/nl/advanced/Gyro.pdf">PDF</a>
+ <a href="ProgrammingLessons/advanced/Gyro.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/advanced/Gyro.pdf">PDF</a>
  </li>
  <li>Myths and Truths About the Gyro:<a href="translations/en-us/guides/GyroGuide.pdf">Quick Guide</a> (English)
  </li>

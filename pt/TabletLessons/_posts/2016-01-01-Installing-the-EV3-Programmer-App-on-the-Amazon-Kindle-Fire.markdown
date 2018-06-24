@@ -5,6 +5,6 @@ lang: "pt"
 ---  
  <ul>  
  <li class="ng-binding">
- <a href="translations/pt-br/tablet/beginner/InstalandoKINDLE.pptx">PPTX</a>,  
+ <a href="TabletLessons/InstalandoKINDLE.pptx">PPTX</a>,  
  </li>  
  </ul>  
