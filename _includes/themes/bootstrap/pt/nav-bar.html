@@ -1,9 +1,23 @@
-<!-- <div class="top-menu">
+<!-- Portuguese -->
+
+
+<div class="top-menu" style="background-color: #080808">
 <p>
-<span class="left">
-<a href="#"><i class="fa fa-map-marker"></i>New South Wales, Sydney</a>
-<a href="#"><i class="fa fa-mobile-phone"></i>+9 34476 3244</a>
-<a href="#"><i class="fa fa-envelope"></i>email@example.com</a>
+  <span class="left">
+
+  
+      <a style="margin-right: 0px;" onclick="window.location.href =
+          '/index.html?lang=en&target='+window.location.href.split('/')[window.location.href.split('/').length-1]"
+          href='#'><img width="26" height="26"
+  src="/assets/images/countries/United States.png"></a>
+  
+     <a style="margin-right: 0px;"  onclick="window.location.href =
+          '/index.html?lang=pt&target='+window.location.href.split('/')[window.location.href.split('/').length-1]"
+          href='#'><img width="26" height="26"
+  src="/assets/images/countries/Brazil.png"></a>
+
+
+  
 </span>
 <span class="right hidden-sm-down">
 {% if site.author.facebook %}<a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="fa fa-facebook"></i></a>{% endif %}
@@ -12,7 +26,7 @@
 {% if site.author.instagram %}<a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="fa fa-instagram"></i></a>{% endif %}
 </span>
 </p>
-</div> -->
+</div> 
 
 <!-- navbar-default -->
 <nav class="navbar navbar-toggleable-sm navbar-light bg-black" style="padding-top: 0px;padding-bottom: 0px">
@@ -27,26 +41,25 @@
                                                 {% assign group = 'navigation' %}
                                                 {% include JB/pages_list %} -->
                                                 <li class="nav-item">
-                                                            <a class="nav-link" href="index.html" aria-haspopup="true" aria-expanded="false">Home</a>
+                                                            <a class="nav-link" href="index.html" aria-haspopup="true" aria-expanded="false">Página Inicial</a>
                                                 </li>
                                                 <li class="nav-item dropdown">
-                                                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programming Lessons</a>
+                                                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Lições</a>
                                                             <div class="dropdown-menu">
-                                                                        <a class="dropdown-item" href="#">Beginner</a>
-                                                                        <a class="dropdown-item" href="#">Intermediate</a>
-                                                                        <a class="dropdown-item" href="#">Advanced</a>
-                                                                        <a class="dropdown-item" href="#">Beyond</a>
+                                                                        <a class="dropdown-item" href="#">Básicas</a>
+                                                                        <a class="dropdown-item" href="#">Intermediário</a>
+                                                                        <a class="dropdown-item" href="#">Avançada</a>
+                                                                        <a class="dropdown-item" href="#">Além</a>
                                                             </div>
                                                 </li>
 
                                                 <li class="nav-item">
-                                                            <a class="nav-link" href="RobotDesigns.html" aria-haspopup="true" aria-expanded="false">Robot Designs</a>
+                                                            <a class="nav-link" href="RobotDesigns.html" aria-haspopup="true" aria-expanded="false">Projetos de Robô</a>
                                                 </li>
 
-                                                <li class="nav-item">
-                                                            <a class="nav-link" href="contact.html" aria-haspopup="true" aria-expanded="false">Contact</a>
-                                                </li>
+				
 
+						
                                     </ul>
 
 

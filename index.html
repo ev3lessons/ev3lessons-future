@@ -40,6 +40,8 @@ if (getParameterByName('lang') != null) {
     var language = navigator.language.split('-')[0];
 }
 
+localStorage.lang = language;
+
 
 if (language == "en-us") {
     language = "en";
@@ -50,12 +52,17 @@ if (language == "en-us") {
 }
 
 
+
 if ((String(langs).indexOf(language+":")) == -1) {
     language = "en";
 }
 
 
-var page = window.location.href.split("?")[0].split("#")[0] + '/'+language;
+if (getParameterByName('target')) { 
+    var page = window.location.href.split("?")[0].split("#")[0].split("index.html")[0] + ''+language + '/' + getParameterByName('target');
+} else {
+    var page = window.location.href.split("?")[0].split("#")[0].split("index.html")[0] + ''+language;
+}
 
 window.location.href = page;
 

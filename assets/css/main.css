@@ -4324,7 +4324,7 @@ html, body {
 }
 
 img {
-  width: 100%
+  width: auto;
 }
 
 .page-header {
@@ -4334,4 +4334,17 @@ img {
   padding-top: 50px;
   text-transform: uppercase;
   margin: 0 0 20px 0
+}
+
+
+
+img {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+a img:hover {
+   opacity: 0.5;
 }
