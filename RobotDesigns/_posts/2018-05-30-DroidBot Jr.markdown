@@ -12,7 +12,7 @@ Droid Bot JR is a robot build using only parts from 31313 LEGO® MINDSTORMS® EV
 Designed by: Sanjay and Arvind Seshan
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/DroidJR.lxf">LDD</a>,
- <a href="instructions/DroidJR.pdf">PDF (infrared missing)</a>
+ <a href="/RobotDesigns/instructions/DroidJR.lxf">LDD</a>,
+ <a href="/RobotDesigns/instructions/DroidJR.pdf">PDF (infrared missing)</a>
  </li>
  </ul>

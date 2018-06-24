@@ -12,7 +12,7 @@ EV3 Discovery is a robot built using parts from the 45544 LEGO® MINDSTORMS® EV
 Designed by: Sanjay and Arvind Seshan
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/discovery.lxf">LDD</a>,
- <a href="instructions/discovery.pdf">PDF</a>
+ <a href="/RobotDesigns/instructions/discovery.lxf">LDD</a>,
+ <a href="/RobotDesigns/instructions/discovery.pdf">PDF</a>
  </li>
  </ul>

@@ -12,6 +12,6 @@ This new NXT robot design is compact and very sturdy - ideal for classroom usage
 Designed by: Sanjay and Arvind Seshan
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/cyberbot.lxf">LXF</a>
+ <a href="/RobotDesigns/instructions/cyberbot.lxf">LXF</a>
  </li>
  </ul>

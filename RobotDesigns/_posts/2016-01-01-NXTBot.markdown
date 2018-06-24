@@ -12,6 +12,6 @@ This is great starting robot design that uses the NXT. It features an outer wall
 Designed by: Tim, Team Cassapeia
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/NXTBot.lxf">LXF</a>
+ <a href="/RobotDesigns/instructions/NXTBot.lxf">LXF</a>
  </li>
  </ul>

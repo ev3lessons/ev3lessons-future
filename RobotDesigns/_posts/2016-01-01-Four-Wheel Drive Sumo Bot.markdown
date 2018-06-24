@@ -12,6 +12,6 @@ This is a four-wheel drive LEGO MINDSTORMS NXT Sumo Bot.
 Designed by:Sam Last
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/4WheelDriveSumoBot.lxf">LXF</a>
+ <a href="/RobotDesigns/instructions/4WheelDriveSumoBot.lxf">LXF</a>
  </li>
  </ul>

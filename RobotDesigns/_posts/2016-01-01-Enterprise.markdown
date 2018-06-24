@@ -13,7 +13,7 @@ This robot has been tested and approved by EV3Lessons.com
 Designed by: Sanjay and Arvind Seshan
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/enterprise.lxf">LDD</a>,
- <a href="instructions/enterprise.pdf">PDF</a>
+ <a href="/RobotDesigns/instructions/enterprise.lxf">LDD</a>,
+ <a href="/RobotDesigns/instructions/Enterprise.pdf">PDF</a>
  </li>
  </ul>

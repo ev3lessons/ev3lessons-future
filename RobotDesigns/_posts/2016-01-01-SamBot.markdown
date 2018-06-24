@@ -12,6 +12,6 @@ SamBot is an EV3 Sumobot design by Anderson Harayashiki Moreira. It features two
 Designed by: Anderson Harayashiki Moreira
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/SamBot.pdf">PDF</a>
+ <a href="/RobotDesigns/instructions/SamBot.pdf">PDF</a>
  </li>
  </ul>

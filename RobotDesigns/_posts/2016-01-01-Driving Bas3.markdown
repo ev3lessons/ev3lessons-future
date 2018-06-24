@@ -13,6 +13,6 @@ Driving Bas3 is designed to look like the EV3 Education Core set base robot. How
 Designed by: Ahmad Sahar
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/DrivingBas3.pdf">PDF</a>,
+ <a href="/RobotDesigns/instructions/DrivingBas3.pdf">PDF</a>,
  </li>
  </ul>

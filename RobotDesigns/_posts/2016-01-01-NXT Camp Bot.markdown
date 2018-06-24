@@ -12,6 +12,6 @@ This is a simple, quick-build design that can be built easily by students in a c
 Designed by: Sam Last
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/campbotNXT.lxf">LXF</a>
+ <a href="/RobotDesigns/instructions/campbotNXT.lxf">LXF</a>
  </li>
  </ul>

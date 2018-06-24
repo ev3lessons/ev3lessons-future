@@ -13,7 +13,7 @@ This Sumo Bot can be built using the LEGO Mindstorms EV3 31313 retail set's part
 Designed by: David Luders
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/Flipper.lxf">LDD</a>,
- <a href="instructions/CustomRemote.ev3">Custom Remote ev3 file</a>
+ <a href="/RobotDesigns/instructions/Flipper.lxf">LDD</a>,
+ <a href="/RobotDesigns/instructions/CustomRemote.ev3">Custom Remote ev3 file</a>
  </li>
  </ul>

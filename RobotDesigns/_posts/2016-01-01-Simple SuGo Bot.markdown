@@ -13,6 +13,6 @@ Designed by: Phil Malone, GEARS
 <ul>
  <li class="ng-binding">Instructions:
  <a href="http://www.sugobot.com/">Website for rules</a>,
- <a href="instructions/EV3SuGo.pdf">PDF</a>
+ <a href="/RobotDesigns/instructions/EV3SuGo.pdf">PDF</a>
  </li>
  </ul>

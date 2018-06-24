@@ -13,6 +13,6 @@ This LEGO MINDTORMS EV3 Sumo Bot uses three EV3 Large Motors, two of which have 
 Designed by: David Luders
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/TripleTorqueBattlebot.lxf">LDD</a>
+ <a href="/RobotDesigns/instructions/TripleTorqueBattlebot.lxf">LDD</a>
  </li>
  </ul>

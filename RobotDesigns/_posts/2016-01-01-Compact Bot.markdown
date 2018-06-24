@@ -12,8 +12,8 @@ Compact Bot is a basic robot build using the 45544 LEGO® MINDSTORMS® Education
 Designed by: Brian Wheeler, Hoosier Girlz
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/compact-bot_ball-caster.lxf">Caster Wheel LXF</a>,
- <a href="instructions/compact-bot_fixed_wheel.lxf">Wheel LXF</a>
-  <a href="instructions/compact-bot_fixed_wheel_nxt-motor.lxf">With NXT Motor</a>
+ <a href="/RobotDesigns/instructions/compact-bot_ball-caster.lxf">Caster Wheel LXF</a>,
+ <a href="/RobotDesigns/instructions/compact-bot_fixed_wheel.lxf">Wheel LXF</a>
+  <a href="/RobotDesigns/instructions/compact-bot_fixed_wheel_nxt-motor.lxf">With NXT Motor</a>
  </li>
  </ul>

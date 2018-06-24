@@ -12,6 +12,6 @@ Endeavour is a basic robot build using only one 45544 LEGO® MINDSTORMS® Educat
 Designed by: Sanjay and Arvind Seshan
 <ul>
  <li class="ng-binding">Instructions:
- <a href="instructions/Endeavour.lxf">LDD</a>,
+ <a href="/RobotDesigns/instructions/Endeavour.lxf">LDD</a>,
  </li>
  </ul>
