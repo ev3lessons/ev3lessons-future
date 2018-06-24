@@ -11,7 +11,7 @@ keywords: helium, jekyll, bootstrap, UI, kit
 
 <div class="content">
 
-  <div class="main-content">
+  <div class="main-content" >
     <div class="tabs-accordions">
       <div class="container">
         <div class="row">
@@ -27,16 +27,16 @@ keywords: helium, jekyll, bootstrap, UI, kit
                 <!-- Nav tabs -->
                 <ul class="nav nav-tabs" role="tablist">
                   <li class="nav-item">
-                    <a class="nav-link active" data-toggle="tab" href="#tab10" role="tab">Beginner</a>
+                    <a class="nav-link active" id="beginner" data-toggle="tab" href="#tab10" role="tab">Beginner</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#tab11" role="tab">Intermediate</a>
+                    <a class="nav-link" id="intermediate" data-toggle="tab" href="#tab11" role="tab">Intermediate</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#tab12" role="tab">Advanced</a>
+                    <a class="nav-link" id="advanced" data-toggle="tab" href="#tab12" role="tab">Advanced</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#tab13" role="tab">Beyond</a>
+                    <a class="nav-link" id="beyond" data-toggle="tab" href="#tab13" role="tab">Beyond</a>
                   </li>
                 </ul>
 
@@ -48,3 +48,18 @@ keywords: helium, jekyll, bootstrap, UI, kit
     </div>
   </div>
 </div>
+
+<script>
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+setTimeout(function(){ document.getElementById(getParameterByName('tab')).click()}, 250);
+
+</script>
