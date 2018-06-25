@@ -8,6 +8,5 @@ lang: "pt"
  <a href="ProgrammingLessons/advanced/StallDetection.pptx">PPTX</a>,
  <a href="ProgrammingLessons/advanced/StallDetection.pdf">PDF</a>
  </li>
- <li>By Hoosier Girlz and Droids Robotics
- </li>
+
  </ul>

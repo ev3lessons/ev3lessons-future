@@ -7,5 +7,5 @@ lang: "it"
  <li class="ng-binding">Slides:
  <a href="ProgrammingLessons/beginner/SensoreAgliUltrasuoni.pptx">PPTX</a>,
  <a href="ProgrammingLessons/beginner/SensoreAgliUltrasuoni.pdf">PDF</a>
- 
+ </li>
  </ul>

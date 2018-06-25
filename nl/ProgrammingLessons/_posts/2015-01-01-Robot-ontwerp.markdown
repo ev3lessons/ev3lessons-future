@@ -4,6 +4,6 @@ searchterms: "toggle beginner robot base_robot robot_design droidbot robot_ontwe
 lang: "nl"
 ---
  <ul>
- <li><a href="robots.html">Robot Design Lessons page</a>
+ <li><a href="RobotDesigns.html">Robot Design Lessons page</a>
  </li>
  </ul>

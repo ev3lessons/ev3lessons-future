@@ -8,6 +8,5 @@ lang: "pt"
  <a href="ProgrammingLessons/advanced/Gyro.pptx">PPTX</a>,
  <a href="ProgrammingLessons/advanced/Gyro.pdf">PDF</a>
  </li>
- <li>Myths and Truths About the Gyro:<a href="translations/en-us/guides/GyroGuide.pdf">Quick Guide</a> (English)
- </li>
+
  </ul>

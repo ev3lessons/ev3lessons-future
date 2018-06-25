@@ -38,6 +38,9 @@
               <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#tab12" role="tab">Sumo</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#tab13" role="tab">Other</a>
+              </li>
             </ul>
 
             <div class="tab-content">
@@ -64,6 +67,15 @@
               <div role="tabpanel" class="tab-pane" id="tab12">
                 {% for post in site.categories.RobotDesigns %}
                 {% if post.lang == page.lang and post.searchterms contains "SUMO" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+              </div>
+              <div role="tabpanel" class="tab-pane" id="tab13">
+                {% for post in site.categories.RobotDesigns %}
+                {% if post.lang == page.lang and post.searchterms contains "Other" %}
                 {% assign refvalue = i | downcase %}
                 {% include postlist.html ref=refvalue %}
                 {% assign i = i | plus:1 %}

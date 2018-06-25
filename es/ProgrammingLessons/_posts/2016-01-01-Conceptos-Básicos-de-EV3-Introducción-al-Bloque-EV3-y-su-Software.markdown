@@ -8,6 +8,5 @@ lang: "es"
  <a href="ProgrammingLessons/beginner/Introduction.pptx">PPTX</a>,
  <a href="ProgrammingLessons/beginner/Introduction.pdf">PDF</a>
  </li>
- </li>
- </li>
+
  </ul>

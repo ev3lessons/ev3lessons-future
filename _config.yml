@@ -14,9 +14,9 @@ excerpt_separator: "<!--more-->"
 #
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 2973388149
-data-ad-client: ca-pub-9204963049240271
-google_ad_client: ca-pub-9204963049240271
+data-ad-slot:
+data-ad-client:
+google_ad_client:
 
 post_limit: 5
 
@@ -34,7 +34,7 @@ author :
   instagram: seshanbrothers
 
 
-twitter_username: lantoniotrento
+twitter_username:
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls

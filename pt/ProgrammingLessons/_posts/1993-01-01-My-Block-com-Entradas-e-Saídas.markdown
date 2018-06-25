@@ -8,7 +8,5 @@ lang: "pt"
  <a href="ProgrammingLessons/intermediate/MyBlocks.pptx">PPTX</a>,
  <a href="ProgrammingLessons/intermediate/MyBlocks.pdf">PDF</a>
  </li>
- <li>My Blocks <a href="translations/en-us/guides//MyBlockGuide.pdf">Quick
- Guide</a> (English)
- </li>
+ 
  </ul>

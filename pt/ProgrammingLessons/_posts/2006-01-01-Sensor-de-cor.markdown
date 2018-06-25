@@ -8,8 +8,5 @@ lang: "pt"
  <a href="ProgrammingLessons/beginner/Color.pptx">PPTX</a>,
  <a href="ProgrammingLessons/beginner/Color.pdf">PDF</a>
  </li>
- <li>EV3 Tablet App Slides: <a href="translations/en-us/tablet-beginner/Color.pptx">PPTX</a> (English)
- </li>
- <li>Using Sensors: Move Until <a href="translations/en-us/guides//MoveUntil.pdf">Quick Guide</a> (English)
- </li>
+
  </ul>
