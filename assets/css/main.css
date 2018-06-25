@@ -2711,12 +2711,12 @@ nav#menu span.fa.fa-bars:hover {
   margin: 10px
 }
 
-#carousel-area .carousel-item img {
+.carousel-item img {
   overflow:hidden;
-  max-height: 100%;
-  width: 100%;
-  display:block;
-  margin:auto
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
 }
 
 #carousel-area .carousel-inner .active {
@@ -4032,7 +4032,14 @@ ul.nav-tabs li a {
   float: right
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+.carousel-inner {
+  height: 350px
+}
+
+@media (min-width: 721px) and (max-width: 1024px) {
+  .carousel-inner {
+    height: 300px
+  }
   .fact-title {
     font-size: 14px
   }
@@ -4111,7 +4118,10 @@ ul.nav-tabs li a {
   }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 720px) {
+  .carousel-inner {
+    height: 220px
+  }
   .page-header-title .heading-title {
     font-size: 24px
   }
