@@ -4218,7 +4218,7 @@ ul.nav-tabs li a {
     font-size: 20px
   }
   .top-menu {
-    height: 70px
+//    height: 70px
   }
   .top-menu .right {
     float: left
@@ -4350,8 +4350,9 @@ img {
   margin: 0 0 20px 0
 }
 
+/* custom code below */
 
-
+/* hyperlink image fade effect */
 img {
    opacity: 1;
    transition: opacity .25s ease-in-out;
@@ -4362,3 +4363,18 @@ img {
 a img:hover {
    opacity: 0.5;
 }
+/* end hyperlink image fade effect */
+
+/* background color */
+
+#content {
+  background-color: #f7f7f7;
+}
+
+.content {
+  background-color: #f7f7f7;
+}
+
+/* end background color */
+
+/* end custom code */
