@@ -1,15 +1,20 @@
 
 <div id="content">
 
-  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    <img style="width:100%" style="height:100%" src="{{ BASE_PATH }}/assets/images/slider/bg-1.jpg" alt="">
+  <div class="owl-carousel owl-theme">
+    <div> <img src="{{ BASE_PATH }}/assets/images/slider/bg-1.jpg" alt=""> </div>
+    <div> <img src="{{ BASE_PATH }}/assets/images/slider/bg-2.jpg" alt=""> </div>
+    <div> <img src="{{ BASE_PATH }}/assets/images/slider/bg-3.jpg" alt=""> </div>
+    <div> <img src="{{ BASE_PATH }}/assets/images/slider/bg-4.jpg" alt=""> </div>
+    <div> <img src="{{ BASE_PATH }}/assets/images/slider/bg-5.jpg" alt=""> </div>
+    <div> <img src="{{ BASE_PATH }}/assets/images/slider/bg-6.jpg" alt=""> </div>
   </div>
 
   <div class="mb-60"></div>
   <div id="features" class="container">
     <!-- SERVICES -->
-    <div class="sub-title">
-      <span>Overview</span>
+    <div>
+      <h2 class="title text-center">Overview</h2>
     </div>
     EV3Lessons provides a complete set of LEGO MINDSTORMS programming lessons for teams, teachers, and robotics enthusiasts. The tutorials are clear, to-the-point, and comprehensive, with something for every level of user.
 
@@ -197,8 +202,8 @@
         </figure>
         <!-- Team Item Ends -->
       </div>
-  <!--
-     <div class="col-sm-6 col-md-3">
+      <!--
+      <div class="col-sm-6 col-md-3">
       Team Item Starts
       <figure>
       <img src="{{ BASE_PATH }}/assets/images/EV3LessonsLogoSquare.png" alt="">
@@ -220,7 +225,7 @@
 </figure>
 <!-- Team Item Ends -->
 </div>
-  <!--
+<!--
 <div class="col-sm-6 col-md-3">
 Team Item Starts
 <figure>
@@ -287,8 +292,6 @@ Team Item Ends
 
 <div class="mb-60"></div>
 
-
-
 <div class="mb-60"></div>
 
 <!-- CONTACT FORM -->
@@ -297,24 +300,43 @@ Team Item Ends
     <div class="col-md-12">
       <h3 class="title-head text-center">Get in touch</h3>
 
-<!--
-<h4 class="contact-info-title">Contact Information</h4> -->
-<div class="contact-info">
-  <address>
-    <i class="fa fa-2x fa-map-marker icons cyan-color contact-info-icon"></i>
-    Founded in Pittsburgh, PA, USA
-    <br>
+      <!--
+      <h4 class="contact-info-title">Contact Information</h4> -->
+      <div class="contact-info">
+        <address>
+          <i class="fa fa-2x fa-map-marker icons cyan-color contact-info-icon"></i>
+          Founded in Pittsburgh, PA, USA
+          <br>
 
-  </address>
+        </address>
 
-  <a href="https://goo.gl/forms/EVzPdutz0uP1daXi1"><i class="fa fa-2x fa-envelope-o icons cyan-color contact-info-icon"></i>Contact Us Form</a>
-  {% include social-block.html %}
+        <a href="https://goo.gl/forms/EVzPdutz0uP1daXi1"><i class="fa fa-2x fa-envelope-o icons cyan-color contact-info-icon"></i>Contact Us Form</a>
+        {% include social-block.html %}
+      </div>
+
+    </div>
+  </div>
+
+
+
+  <!-- Content area end -->
+
 </div>
+<script src="{{ BASE_PATH }}/assets/js/jquery.min.js"></script>
 
-</div>
-</div>
+<script src="{{ BASE_PATH }}/assets/js/owl.carousel.min.js"></script>
 
-
-
-<!-- Content area end -->
-</div>
+<script>
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel({
+    items: 1,
+    animateOut: 'fadeOut',
+    margin: 10,
+    responsiveClass: true,
+    lazyLoadEager: 1,
+    loop: true,
+    autoplay: true,
+    autoplayTimeout: 3000,
+  })
+})
+</script>
