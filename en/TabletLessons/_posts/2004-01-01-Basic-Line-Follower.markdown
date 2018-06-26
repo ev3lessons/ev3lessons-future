@@ -10,7 +10,7 @@ lang: "en"
 
  <ul>
  <li class="ng-binding">Slides:
- <a href="TabletLessons/tablet/beginner/BasicLineFollower.pptx">PPTX</a>,
- <a href="TabletLessons/tablet/beginner/BasicLineFollower.pdf">PDF</a>
+ <a href="TabletLessons/beginner/BasicLineFollower.pptx">PPTX</a>,
+ <a href="TabletLessons/beginner/BasicLineFollower.pdf">PDF</a>
  </li>
  </ul>

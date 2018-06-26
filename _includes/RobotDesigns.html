@@ -48,7 +48,7 @@
                 <!-- accordions -->
                 <!-- default accordions -->
                 {% for post in site.categories.RobotDesigns %}
-                {% if post.lang == page.lang and post.searchterms contains "EV3" %}
+                {% if post.searchterms contains "EV3" %}
                 {% assign refvalue = i | downcase %}
                 {% include postlist.html ref=refvalue %}
                 {% assign i = i | plus:1 %}
@@ -57,7 +57,7 @@
               </div>
               <div role="tabpanel" class="tab-pane" id="tab11">
                 {% for post in site.categories.RobotDesigns %}
-                {% if post.lang == page.lang and post.searchterms contains "NXT" %}
+                {% if post.searchterms contains "NXT" %}
                 {% assign refvalue = i | downcase %}
                 {% include postlist.html ref=refvalue %}
                 {% assign i = i | plus:1 %}
@@ -66,7 +66,7 @@
               </div>
               <div role="tabpanel" class="tab-pane" id="tab12">
                 {% for post in site.categories.RobotDesigns %}
-                {% if post.lang == page.lang and post.searchterms contains "SUMO" %}
+                {% if post.searchterms contains "SUMO" %}
                 {% assign refvalue = i | downcase %}
                 {% include postlist.html ref=refvalue %}
                 {% assign i = i | plus:1 %}
@@ -75,7 +75,7 @@
               </div>
               <div role="tabpanel" class="tab-pane" id="tab13">
                 {% for post in site.categories.RobotDesigns %}
-                {% if post.lang == page.lang and post.searchterms contains "Other" %}
+                {% if post.searchterms contains "Other" %}
                 {% assign refvalue = i | downcase %}
                 {% include postlist.html ref=refvalue %}
                 {% assign i = i | plus:1 %}
