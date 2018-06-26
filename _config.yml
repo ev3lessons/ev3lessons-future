@@ -22,11 +22,11 @@ post_limit: 5
 
 
 title : EV3Lessons
-tagline: Let's Learn Together
+tagline:
 author :
-  name : Seshan Brothers
+  name : Sanjay and Arvind Brothers
   site: https://www.ev3lessons.com
-  description : LEGO MINDSTORMS EV3 programming lessons and tutorials written by World Champion's FIRST LEGO League team and MINDSTORMS Community Partners.
+  description : EV3Lessons provides a complete set of LEGO MINDSTORMS EV3 programming tutorials for teams, teachers, and robotics enthusiasts. The tutorials are clear, to-the-point, and comprehensive, with something for every level of user. The authors are FIRST LEGO League World Champions and MINDSTORMS Community Partners.
   image : social-image.png
   email : team@ev3lessons.com
   twitter : ev3lessons
