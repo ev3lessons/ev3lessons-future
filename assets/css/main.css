@@ -1095,7 +1095,7 @@ footer .menu li a:hover {
 }
 
 .navbar-brand img {
-  max-width: 200px
+  max-width: 285px
 }
 
 .navbar-light .navbar-brand, .navbar-light .navbar-toggler {
@@ -4212,7 +4212,7 @@ ul.nav-tabs li a {
 
 @media (max-width: 480px) {
   .navbar-brand img {
-    max-width: 120px
+    max-width: 200px
   }
   .sub-title {
     font-size: 20px
