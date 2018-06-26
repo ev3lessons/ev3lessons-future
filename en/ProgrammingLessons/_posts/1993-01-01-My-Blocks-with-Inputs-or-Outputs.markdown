@@ -5,9 +5,9 @@ lang: "en"
 ---
  <ul>
 
- <li class="ng-binding">Slides (Updated Sept. 25, 2017):
+ <li class="ng-binding">Slides:
  <a href="ProgrammingLessons/intermediate/MyBlocksUpdated.pptx">PPTX</a>,
  <a href="ProgrammingLessons/intermediate/MyBlocksUpdated.pdf">PDF</a>
  </li>
- 
+
  </ul>

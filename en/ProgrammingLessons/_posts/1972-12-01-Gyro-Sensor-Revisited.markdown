@@ -9,6 +9,6 @@ lang: "en"
  <a href="ProgrammingLessons/advanced/GyroRevisited.pdf">PDF</a>
  </li>
  <li class="ng-binding">
- <a href="ProgrammingLessons/advanced/GyroRevisited.ev3">EV3 Code</a>,
+ <a href="ProgrammingLessons/advanced/GyroRevisited.ev3">EV3 Code to test your sensor</a>
  </li>
   </ul>

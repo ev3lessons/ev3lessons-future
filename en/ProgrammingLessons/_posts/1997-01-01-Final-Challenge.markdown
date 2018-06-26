@@ -10,6 +10,4 @@ lang: "en"
  </li>
  <li> <a href="ProgrammingLessons/beginner/FinalAssessment.docx">Assessment</a>
  </li>
- <li> <a href="challenges.html">More Challenges</a>
- </li>
- </ul>
+  </ul>
