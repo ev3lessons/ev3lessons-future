@@ -9,6 +9,6 @@ lang: "en"
  <a href="ProgrammingLessons/advanced/RandomBlock.pdf">PDF</a>
  </li>
  <li>
- <a type="application/ev3" download="RandomBlock-Simon.ev3" href="ProgrammingLessons/advanced/RandomBlock.ev3">EV3 Code (Simon Game)</a>,
+ <a type="application/ev3" download="RandomBlock-Simon.ev3" href="ProgrammingLessons/advanced/RandomBlock.ev3">EV3 Code (Simon Game)</a>
  </li>
  </ul>
